@@ -1,5 +1,5 @@
 # SafeHaven – AI-Powered Tourist Safety System
-
+ ---
 ## Description
 
 SafeHaven is an AI-based, cross-platform tourist safety system designed to provide predictive, preventive, and responsive safety assistance in unfamiliar environments.
