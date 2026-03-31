@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "EcDaCsSjx8BytZZYEXIJm"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "travel-shield-icon"
+
+[[generated]]
+id = "6XVN-bH5ZjBXPCQbKGtwQ"
+uri = "file://artifacts/mobile/assets/images/splash-icon.png"
+type = "image"
+title = "travel-shield-splash"
+
+[[generated]]
+id = "vX7pmjKNIReBdDQxI5-OE"
+uri = "file://artifacts/mobile/assets/images/mumbai-hero.png"
+type = "image"
+title = "mumbai-hero"
